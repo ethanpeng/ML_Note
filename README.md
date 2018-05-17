@@ -14,3 +14,6 @@ Keras是一個高層神經網絡API，Keras由純Python編寫而成並基Tensorf
 
 ### CNTK (Microsoft)  
 [Microsoft/CNTK](https://github.com/Microsoft/cntk)  
+
+### anaconda
+[Installing on Linux](https://conda.io/docs/user-guide/install/linux.html)  
