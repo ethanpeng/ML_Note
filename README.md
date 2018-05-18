@@ -17,3 +17,7 @@ Keras是一個高層神經網絡API，Keras由純Python編寫而成並基Tensorf
 
 ### anaconda
 [Installing on Linux](https://conda.io/docs/user-guide/install/linux.html)  
+
+
+## AI
+[量子電腦](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA)  
